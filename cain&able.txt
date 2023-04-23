@@ -1,0 +1,34 @@
+Cain and Able for cracking windows account password using dictionary attack and to decode wireless network passwords 
+
+(1) Download and Install Cain and able software in your system. 
+For this you need to turn off your firewall. 
+Extract the CainandAble.rar file in VMWare -> Turn off the windows security firewall. 
+After installation, open the software
+(2) Click on "Hash Calculator" 
+(2) Enter the text which you want to convert to "Hash" and click on "calculate" button. 
+(3) copy the value into the field you have converted.(eg:MD5),and then click on "cancel" button. 
+(4) After that go to cracker>MD5 hashes and click on "+" icon on the top of the page. 
+After that, a dialog window will appear and it will ask you to enter your MD5 hashes. 
+Now, paste the MD5 hash which you have copied earlier and then click on the "ok" button. 
+(5) After performing step (4) right click on MD5 hash and select "Dictionary Attack" 
+(6) right click on the file and select(Add to list)and then select the wordlist file from the path:	 
+C:\Program Files (x86)\Cain\Wordlists 
+(7) Select all the options and click on "Start" Button. 
+(8) Finally, you can see that your MD5 hash has been cracked
+
+
+ARP Poisoning in Windows
+
+(1) Download and Install cain and able software in your system
+(2)Select "Sniffers" from the top.
+(3) Next to folder icon click on icon name start/stop sniffer. Select device and click on ok.
+(4) Next to folder icon click on icon name start/stop sniffer. Select device(Based On Your IP address) and click on ok. 
+(5) Click on “+” icon on the top. Click on ok.
+(6)After performing step(5),you will be able to see a list of connected host.
+(7)Select "APR"from bottom.
+(8) Click on “+” icon at the top.
+9) Click on start/stop ARP icon on top.
+(10) Poisoning the source	
+(11) Go to any website on source ip address.
+(12)Enter any username and password and click on login’
+(13)After that click on passwords>HTTP.you will be able to see the username and password which you have entered.
